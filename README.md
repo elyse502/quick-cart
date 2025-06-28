@@ -6,9 +6,7 @@ Welcome to **Quick Cart**, a modern and scalable e-commerce platform built with 
 
 <br /><hr /><br />
 
-## LIVE - DEMO 🌐
-  
-VISIT 👉 [LINK](https://quick-cart-beta-bice.vercel.app)
+
 
 </div>
 
